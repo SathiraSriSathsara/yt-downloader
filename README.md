@@ -32,3 +32,10 @@ This script uses the following open-source software:
 
 * <a href="https://github.com/yt-dlp/yt-dlp">yt-dlp</a>
 * <a href="https://ffmpeg.org/">ffmpeg</a>
+
+
+
+<div align="center">
+	<img src="https://github.com/SathiraSriSathsara/SathiraSriSathsara/blob/main/icon.png" width="40">
+	<h4>Sathira Sri Sathsara @ 2023</h4>
+</div>	
