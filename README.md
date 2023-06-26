@@ -10,7 +10,7 @@ This project is a YouTube video downloader built in Python and bat script, utili
 - Convert videos to different formats using `ffmpeg`
 
 ## Windows Application
-If you prefer using a Windows application instead of running the Python script, you can download the executable file from the <a href="https://github.com/SathiraSriSathsara/yt-downloader/releases/download/beta-v01/yt-downloader-beta_v01.zip">latest release.</a>
+If you prefer using a Windows application instead of running the Python script, you can download the executable file from the <a href="https://github.com/SathiraSriSathsara/yt-downloader/releases/download/beta-v02/yt-downloader.exe">latest release.</a>
 
 1. Download the ZIP file from the above link.
 
