@@ -1,0 +1,39 @@
+{
+    "appearance_mode": "dark",
+    "default_color_theme": "green",
+    "theme_data": {
+      "green": {
+        "background": "#222222",
+        "foreground": "#FFFFFF",
+        "button": {
+          "background": "#00FF00",
+          "foreground": "#000000"
+        },
+        "label": {
+          "background": "#222222",
+          "foreground": "#FFFFFF"
+        },
+        "entry": {
+          "background": "#111111",
+          "foreground": "#FFFFFF"
+        }
+      },
+      "blue": {
+        "background": "#0000FF",
+        "foreground": "#FFFFFF",
+        "button": {
+          "background": "#0080FF",
+          "foreground": "#FFFFFF"
+        },
+        "label": {
+          "background": "#0000FF",
+          "foreground": "#FFFFFF"
+        },
+        "entry": {
+          "background": "#0000CC",
+          "foreground": "#FFFFFF"
+        }
+      }
+    }
+  }
+  
