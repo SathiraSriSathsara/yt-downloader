@@ -16,7 +16,7 @@ If you prefer using a Windows application instead of running the Python script, 
 
 2. Extract the contents to a directory on your computer.
 
-3. Double-click on the `yt-downloader-beta-v01.exe` file to launch the application.
+3. Double-click on the `yt-downloader-beta-2.exe` file to launch the application.
 
 
 ## Screenshots 
