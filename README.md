@@ -23,4 +23,17 @@ If you prefer using a Windows application instead of running the Python script, 
 
 ![ss](ss.png)
 
+## Contributing
+
+Contributions to this project are welcome. If you encounter any issues or have suggestions for improvements, please open an issue on the GitHub repository.
+
+
+## License
+
+This project is licensed under the MIT License.
+
+## Disclaimer
+
+Please be aware that downloading videos from YouTube may violate the platform's terms of service or copyright laws in your country. Use this tool responsibly and respect the rights of content creators.
+
 
