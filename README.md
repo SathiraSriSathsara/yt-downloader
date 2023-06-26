@@ -21,9 +21,9 @@ If you prefer using a Windows application instead of running the Python script, 
 
 ## Screenshots 
 
-![ss](ss2.png)
-
 ![ss](ss3.png)
+
+![ss](ss2.png)
 
 ## Contributing
 
