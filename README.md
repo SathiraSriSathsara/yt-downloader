@@ -37,3 +37,12 @@ This project is licensed under the MIT License.
 Please be aware that downloading videos from YouTube may violate the platform's terms of service or copyright laws in your country. Use this tool responsibly and respect the rights of content creators.
 
 
+
+<br>
+
+<div align="center">
+	<img src="https://github.com/SathiraSriSathsara/SathiraSriSathsara/blob/main/icon.png" width="40">
+	<h4>Sathira Sri Sathsara @ 2023</h4>
+</div>	
+
+
